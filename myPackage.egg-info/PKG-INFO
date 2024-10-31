@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: myPackage
+Version: 0.1
+Summary: example python package
+Home-page: https://github.com/gehadkamel/<package_name>
+Author: gehadkamel
+Author-email: gehad5kamel
+License: MIT
+Requires-Dist: numpy
